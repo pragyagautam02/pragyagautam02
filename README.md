@@ -1,9 +1,13 @@
+![MasterHead](https://www.cleantechloops.com/wp-content/uploads/2022/02/low-code-software-developer-900x360.jpg)
+
 <h1 align="center">Hi 👋, I'm Pragya Gautam</h1>
 <h3 align="center">A passionate Python developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyagautam02&label=Profile%20views&color=0e75b6&style=flat" alt="pragyagautam02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragyagautam02" alt="pragyagautam02" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 - 🔭 I’m currently working on **Python & JavaScript**
 
@@ -13,7 +17,11 @@
 
 - 📫 How to reach me **pragyagautam@020801gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qdtQMGL6wbjlJjU0siZfZHqzmlSMoFgV/view?usp=sharing](https://drive.google.com/file/d/1qdtQMGL6wbjlJjU0siZfZHqzmlSMoFgV/view?usp=sharing)
+- 📄 Know about my experiences : <a href = "https://drive.google.com/file/d/1qdtQMGL6wbjlJjU0siZfZHqzmlSMoFgV/view?usp=sharing"> Resume </a>
+
+- 📝 I write articles here : <a href='https://medium.com/@pragyagautam020801'>Blog</a>
+
+- ⚡ Fun fact **: What's common between a Dancer and a Programmer ? They remember the steps well !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-![MasterHead](https://www.cleantechloops.com/wp-content/uploads/2022/02/low-code-software-developer-900x360.jpg)
+<img src="https://media1.tenor.com/images/056268fea0ca3b3a079f75b154e9adf4/tenor.gif?itemid=27079703">
 
 <h1 align="center">Hi 👋, I'm Pragya Gautam</h1>
 <h3 align="center">A passionate Python developer from India.</h3>

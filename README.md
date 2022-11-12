@@ -1,11 +1,12 @@
-<img src="https://media1.tenor.com/images/056268fea0ca3b3a079f75b154e9adf4/tenor.gif?itemid=27079703">
+
+<p align="center"><img src="https://media1.tenor.com/images/056268fea0ca3b3a079f75b154e9adf4/tenor.gif?itemid=27079703"></p>
 
 <h1 align="center">Hi 👋, I'm Pragya Gautam</h1>
 <h3 align="center">A passionate Python developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyagautam02&label=Profile%20views&color=0e75b6&style=flat" alt="pragyagautam02" /> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=pragyagautam02&theme=darkhub&row=1"><img src="https://github-profile-trophy.vercel.app/?username=pragyagautam02&theme=darkhub&row=1" alt="pragyagautam02" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragyagautam02" alt="pragyagautam02" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 

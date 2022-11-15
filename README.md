@@ -10,13 +10,13 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
-- 🔭 I’m currently working on **Python & JavaScript**
+- 🔭 I’m currently working on : **Python & JavaScript**
 
-- 🌱 I’m currently learning **JavaScript, System Design and Blockchain concepts**
+- 🌱 I’m currently learning : **JavaScript, System Design and Blockchain concepts**
 
-- 💬 Ask me about **Python, Data Structures, Algorithms, OOPs & SQL**
+- 💬 Ask me about : **Python, Data Structures, Algorithms, OOPs & SQL**
 
-- 📫 How to reach me **pragyagautam@020801gmail.com**
+- 📫 How to reach me : **pragyagautam@020801gmail.com**
 
 - 📄 Know about my experiences : <a href = "https://drive.google.com/file/d/1qdtQMGL6wbjlJjU0siZfZHqzmlSMoFgV/view?usp=sharing"> Resume </a>
 

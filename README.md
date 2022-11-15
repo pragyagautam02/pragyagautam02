@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **JavaScript, System Design and Blockchain concepts**
 
-- 💬 Ask me about **Python, Data Structures, Algorithms & OOPs**
+- 💬 Ask me about **Python, Data Structures, Algorithms, OOPs & SQL**
 
 - 📫 How to reach me **pragyagautam@020801gmail.com**
 
